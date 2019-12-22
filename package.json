@@ -1,0 +1,15 @@
+{
+  "name": "jestem_sobie_maly_mis",
+  "version": "1.0.0",
+  "description": "v 1.0",
+  "main": "addition.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmarciniak2 <michalmarciniak1992@gmail.com>",
+  "license": "ISC"
+}
